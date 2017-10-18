@@ -38,10 +38,6 @@ run.py <путь до изображения>
 
 Для определения общей эмоции фото, складываются все веса эмоций для всех найденных лиц, эмоция с максимальным весом является результатом. Для того чтобы классифицировать фото по трем категориям - positive, nеutral, negative мы отнесли happy, surprise к *positive*, neutral к *neutral*, angry, disgust, fear, sad к *negative*
 
-## Презентация
-
-https://docs.google.com/presentation/d/1prYpLmHk5XnzH5Ixc6_IUmtokMvVokNMRMOVkLVEt00/edit#slide=id.g25cf51c1fc_1_0
-
 ## Результаты
 
   
@@ -51,5 +47,9 @@ https://docs.google.com/presentation/d/1prYpLmHk5XnzH5Ixc6_IUmtokMvVokNMRMOVkLVE
 | Neutral       | 726           | 272               |  62.5%        |  
 | Negative      | 561           | 387               |  31%          |
 
+
+## Презентация
+
+https://docs.google.com/presentation/d/1prYpLmHk5XnzH5Ixc6_IUmtokMvVokNMRMOVkLVEt00/edit#slide=id.g25cf51c1fc_1_0
 
 
