@@ -42,7 +42,14 @@ run.py <путь до изображения>
 
 https://docs.google.com/presentation/d/1prYpLmHk5XnzH5Ixc6_IUmtokMvVokNMRMOVkLVEt00/edit#slide=id.g25cf51c1fc_1_0
 
+## Результаты
 
+  
+|               | Всего фото    | Верно предсказано | Процент ошибки|
+| ------------- | ------------- |-------------------|---------------|
+| Positive      | 774           | 452               |  41.6%        |
+| Neutral       | 726           | 272               |  62.5%        |  
+| Negative      | 561           | 387               |  31%          |
 
 
 
